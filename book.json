@@ -1,5 +1,10 @@
 {
   "title": "C#笔记",
-  "language": "zh-hans"
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr", 
+    "-search", 
+    "search-plus"
+  ]
 
 }
